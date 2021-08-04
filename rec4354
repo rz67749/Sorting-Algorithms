@@ -1,0 +1,15 @@
+Zacarias_Puhalovich_assignment5:
+total 276
+-rwxr-xr-x 1 ugrad 53942 Nov 15 22:10 main
+-rw-r--r-- 1 ugrad  2276 Nov 15 22:10 Main.cpp
+-rw-r--r-- 1 ugrad  2000 Nov 14 15:02 Main.cpp~
+-rw-r--r-- 1 ugrad   231 Nov 15 19:13 Makefile
+-rw-r--r-- 1 ugrad 48890 Nov 14 15:04 ordered.txt
+-rw-r--r-- 1 ugrad 48890 Nov 14 15:06 random.txt
+-rw-r--r-- 1 ugrad   419 Nov 15 20:58 Readme.txt
+-rw-r--r-- 1 ugrad     0 Nov 15 22:15 rec4354
+-rw-r--r-- 1 ugrad 48890 Nov 14 15:05 reversed.txt
+-rw-r--r-- 1 ugrad  5544 Nov 15 21:08 Sorting.cpp
+-rw-r--r-- 1 ugrad   868 Nov 15 20:28 Sorting.h
+-rw-r--r-- 1 ugrad 46600 Nov 15 21:16 Sorting.o
+/home/ugrads/zacarias/Zacarias_Puhalovich_assignment5:/home/work/cs2720a
